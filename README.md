@@ -1,8 +1,8 @@
-<h1> Sistemas de cadastro de jogos</h
+# Sistemas de cadastro de jogos
 
 > status do projeto: Em desenvolvimento
 
-Para  rodar  esse pr ojeto na sua maquina, por favor digite:
+Para  rodar  esse projeto na sua maquina, por favor digite:
 
 ...
 npm install react
